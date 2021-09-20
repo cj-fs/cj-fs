@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cj-fs
+- 👋 Hi, I’m Colter!
 - 👀 I’m interested in learning Fullstack Web Development
 - 🌱 I’m currently learning JavaScript/TypeScript
 - 🗿 I have no clue what I'm doing tho
